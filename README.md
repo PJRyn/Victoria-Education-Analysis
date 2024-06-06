@@ -48,6 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+I have moved this project to my own github as I had done this project for my data anayltics bootcamp from Monash university.
 
 We are seeking to research how population density affects the education industry within Victoria. Analyzing what options exist within more rural areas compared to dense urbanized areas. We will utilize the google api to create a heatmap to describe the success of high ranking highschool as create a heatmap displaying the amount of schools in victoria. Our hope is to illustrate how more urbanized and densely populated areas have more access to more options and possibly more effective resources. 
 
@@ -98,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
 
 Josh Martin - [https://github.com/joshmartin33](https://github.com/joshmartin33)
 
-Ryan Peregrin - [https://github.com/PJRyn](https://github.com/PJRyn)
+Peregrin Ryan - [https://github.com/PJRyn](https://github.com/PJRyn)
 
 Udeshi Pereira - [https://github.com/Shaloomi](https://github.com/Shaloomi)
 
